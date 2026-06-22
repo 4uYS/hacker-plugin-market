@@ -1,5 +1,8 @@
 # Hacker Plugin Market
 
+
+[中文](README.md) | [English](README.en.md)
+
 Hacker Terminal 官方插件市场 —— 扩展你的终端能力
 
 ---
@@ -130,4 +133,4 @@ MIT License
 
 ---
 
-**Hacker Terminal Plugin Market** · 爱折腾实验室 · 豆包 AI Agent Lab
+**Hacker Terminal Plugin Market** · 爱折腾AI实验室（AI Agent Lab, AAL）
